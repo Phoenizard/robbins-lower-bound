@@ -1,0 +1,12 @@
+__pycache__/
+.pytest_cache/
+*.pyc
+/runs/
+numba_cache*/
+/replication/results/
+/replication/validation_results.json
+/supplementary/mc_dual/ckpt*/
+/supplementary/mc_dual/results*.json
+/supplementary/mc_dual/replicate_*.json
+/supplementary/mc_dual/martingale_check_*.json
+/supplementary/mc_dual/bounds_vs_n.png

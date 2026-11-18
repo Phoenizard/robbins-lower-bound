@@ -1,0 +1,2 @@
+/certificates/original/*.cert.json -text
+/certificates/original/*.log -text
